@@ -1,5 +1,5 @@
 global.owner = [
-  "2347043759577",
+  "2349068486092",
   ""
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
@@ -50,7 +50,7 @@ global.autoreact = false;
 
 global.WELCOME = false;
 
-global.prefix = '.';
+global.prefix = '°';
 
 global.autobio = false;
 
